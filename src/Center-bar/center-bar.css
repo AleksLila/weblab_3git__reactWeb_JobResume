@@ -1,0 +1,42 @@
+.center-bar{
+    background-color: rgb(175, 141, 96);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    float: left;
+    top: 0;
+    width: 40%;
+
+}
+h1{
+    padding: 0 20px
+}
+h2{
+    margin-bottom:10px;
+}
+.center-bar p{
+    margin: 0;
+}
+.row {
+    display: flex;
+    align-items:flex-start ; 
+    justify-content: space-between; 
+    padding: 0 20px
+}
+.section-contacts a {
+    text-decoration: none;
+}
+.section-skills{
+   padding: 10px 0 0 0;
+}
+img{
+    width: 200px;
+    margin-top: 20px;
+} 
+.section{
+    padding: 20px 20px
+}
+.paragraph {
+    margin-bottom: 30px;
+    padding: 0 20px
+}
